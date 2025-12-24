@@ -1,6 +1,4 @@
-#
-
-shuli-hNode.js Final Project — Factory Server (Node.js + Express + MongoDB)
+#Factory Management API (Node.js & MongoDB)
 
 > A clean, minimal server for a factory-style website. Built with **Node.js**, **Express**, and **MongoDB**. Includes a simple MVC-ish folder layout (models → repositories → services → routers) and optional HTML pages under `client/`.
 
